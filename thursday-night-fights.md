@@ -69,4 +69,6 @@
 
 ## Two vs Two
 
-1. Street Fighter 
+1. Marvel vs Capcom: Clash of Super Heroes
+2. Dead or Alive 2 or Street Fighter EX3
+3. Super Smash Bros Ultimate
