@@ -7,11 +7,11 @@
 #### Introduction
 
 ## Line up
-1. 1v1
-   1. Guilty Gear Xrd Rev 2 
-   1. Marvel vs Capcom 2: New Age of Heroes 
-1. 2v2   
-   1. Dead or Alive 2
+* One on One
+   * Guilty Gear Xrd Rev 2 
+   * Marvel vs Capcom 2: New Age of Heroes 
+* Two on Two   
+   * Dead or Alive 2
 
 _If time_
 
@@ -37,9 +37,9 @@ _If time_
 #### Marvel vs Capcom 2: New Age of Heroes
 
 * Matchups
-   1. (1) DangHoneyBadger vs (4) DebianPool
-   2. (2) Marc0714 vs (3) Trasisi
-   3. ? vs ?
+   * (1) DangHoneyBadger vs (4) DebianPool
+   * (2) Marc0714 vs (3) Trasisi
+   * ? vs ?
  
 * Handicaps : Loser gets to pick winner's next team
 * Entrance : -$1 to use (Sentinel, Storm, Magneto, Cable)
